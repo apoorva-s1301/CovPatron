@@ -1,5 +1,5 @@
 body {
-  background: #282846;
+  background: white;
 }
 
 #hero {
@@ -12,15 +12,6 @@ body {
   #hero {
     background: url("../../assets/img/bgLaptop.svg") center / cover no-repeat;
   }
-}
-
-@media (min-width: 576px) {
-  #hero {
-    /*background: url("../../assets/img/bgTab.svg") center / cover no-repeat;*/
-  }
-}
-
-.navbar-brand {
 }
 
 .navbar-brand {
